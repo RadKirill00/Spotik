@@ -1,7 +1,9 @@
 # Project [Spotify](https://spotify-two-murex.vercel.app/) (clone)
 https://zoom.us/j/4402644698?pwd=bVd3ZDdyWkEyNTExSjEyYXc3Tjk5dz09
 
-![spotify](https://www.iguides.ru/upload/medialibrary/d65/d65a366ca215feefc9150656ac09f285.jpg)
+Фигма макет - https://www.figma.com/design/19UGIyuRCvJji1fMGwpW4s/Spotik-Desigh?node-id=0-1&t=ugsY5hDrTBmE3VgW-0
+
+Фигма презентация - https://www.figma.com/design/MztJ00tSwZe8ZWLOWYxOwD/Spotik-prezentation?node-id=0-1&t=C9U7jwTNlhmYIpm2-0
 ___
 # Информация по проекту
 Данный проект является копией Spotify. 
