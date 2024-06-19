@@ -1,5 +1,5 @@
 # Project [Spotify](https://spotify-two-murex.vercel.app/) (clone)
-https://zoom.us/j/4402644698?pwd=bVd3ZDdyWkEyNTExSjEyYXc3Tjk5dz09
+
 
 Фигма макет - https://www.figma.com/design/19UGIyuRCvJji1fMGwpW4s/Spotik-Desigh?node-id=0-1&t=ugsY5hDrTBmE3VgW-0
 
