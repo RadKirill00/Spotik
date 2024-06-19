@@ -1,4 +1,6 @@
 # Project [Spotify](https://spotify-two-murex.vercel.app/) (clone)
+[![Uploading image.png…]()](https://zoom.us/j/4402644698?pwd=bVd3ZDdyWkEyNTExSjEyYXc3Tjk5dz09)
+
 ![spotify](https://www.iguides.ru/upload/medialibrary/d65/d65a366ca215feefc9150656ac09f285.jpg)
 ___
 # Информация по проекту
